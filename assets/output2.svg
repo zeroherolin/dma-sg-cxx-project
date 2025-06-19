@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 1200 480" width="1200" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="150" rows="40"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 13565ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+2.307%{transform:translateY(-714px)}
+4.453%{transform:translateY(-1428px)}
+6.259%{transform:translateY(-2142px)}
+9.016%{transform:translateY(-2856px)}
+9.716%{transform:translateY(-3570px)}
+11.707%{transform:translateY(-4284px)}
+13.535%{transform:translateY(-4998px)}
+14.825%{transform:translateY(-5712px)}
+17.199%{transform:translateY(-6426px)}
+21.334%{transform:translateY(-7140px)}
+22.204%{transform:translateY(-7854px)}
+23.539%{transform:translateY(-8568px)}
+24.239%{transform:translateY(-9282px)}
+29.244%{transform:translateY(-9996px)}
+33.151%{transform:translateY(-10710px)}
+33.432%{transform:translateY(-11424px)}
+36.609%{transform:translateY(-12138px)}
+37.103%{transform:translateY(-12852px)}
+38.806%{transform:translateY(-13566px)}
+41.924%{transform:translateY(-14280px)}
+49.407%{transform:translateY(-14994px)}
+51.220%{transform:translateY(-15708px)}
+52.643%{transform:translateY(-16422px)}
+55.555%{transform:translateY(-17136px)}
+59.086%{transform:translateY(-17850px)}
+60.088%{transform:translateY(-18564px)}
+62.160%{transform:translateY(-19278px)}
+63.421%{transform:translateY(-19992px)}
+68.433%{transform:translateY(-20706px)}
+68.456%{transform:translateY(-21420px)}
+86.590%{transform:translateY(-22134px)}
+86.775%{transform:translateY(-22848px)}
+92.628%{transform:translateY(-23562px)}
+100.000%{transform:translateY(-23562px)}
+            }
+
+            #screen_view {
+                animation-duration: 13565ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="1200" height="680" viewBox="0 0 1200 680" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="8" class="foreground"> </text><text x="16" textLength="8" class="background"> </text></g><g id="g2"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="16" class="foreground"> c</text><text x="24" textLength="8" class="background"> </text></g><g id="g3"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="24" class="foreground"> cd</text><text x="32" textLength="8" class="background"> </text></g><g id="g4"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="32" class="foreground"> cd </text><text x="40" textLength="8" class="background"> </text></g><g id="g5"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="40" class="foreground"> cd b</text><text x="48" textLength="8" class="background"> </text></g><g id="g6"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="48" class="foreground"> cd bu</text><text x="56" textLength="8" class="background"> </text></g><g id="g7"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="56" class="foreground"> cd bui</text><text x="64" textLength="8" class="background"> </text></g><g id="g8"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="64" class="foreground"> cd buil</text><text x="72" textLength="8" class="background"> </text></g><g id="g9"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> cd build</text><text x="80" textLength="8" class="background"> </text></g><g id="g10"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> cd build</text></g><g id="g11"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="16" class="foreground"> s</text><text x="24" textLength="8" class="background"> </text></g><g id="g12"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="24" class="foreground"> su</text><text x="32" textLength="8" class="background"> </text></g><g id="g13"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="32" class="foreground"> sud</text><text x="40" textLength="8" class="background"> </text></g><g id="g14"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="40" class="foreground"> sudo</text><text x="48" textLength="8" class="background"> </text></g><g id="g15"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="48" class="foreground"> sudo </text><text x="56" textLength="8" class="background"> </text></g><g id="g16"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="56" class="foreground"> sudo .</text><text x="64" textLength="8" class="background"> </text></g><g id="g17"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="64" class="foreground"> sudo ./</text><text x="72" textLength="8" class="background"> </text></g><g id="g18"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> sudo ./b</text><text x="80" textLength="8" class="background"> </text></g><g id="g19"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="80" class="foreground"> sudo ./bi</text><text x="88" textLength="8" class="background"> </text></g><g id="g20"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="88" class="foreground"> sudo ./bin</text><text x="96" textLength="8" class="background"> </text></g><g id="g21"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="96" class="foreground"> sudo ./bin/</text><text x="104" textLength="8" class="background"> </text></g><g id="g22"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="104" class="foreground"> sudo ./bin/d</text><text x="112" textLength="8" class="background"> </text></g><g id="g23"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="112" class="foreground"> sudo ./bin/dm</text><text x="120" textLength="8" class="background"> </text></g><g id="g24"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="120" class="foreground"> sudo ./bin/dma</text><text x="128" textLength="8" class="background"> </text></g><g id="g25"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="128" class="foreground"> sudo ./bin/dma_</text><text x="136" textLength="8" class="background"> </text></g><g id="g26"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="136" class="foreground"> sudo ./bin/dma_t</text><text x="144" textLength="8" class="background"> </text></g><g id="g27"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="144" class="foreground"> sudo ./bin/dma_te</text><text x="152" textLength="8" class="background"> </text></g><g id="g28"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="152" class="foreground"> sudo ./bin/dma_tes</text><text x="160" textLength="8" class="background"> </text></g><g id="g29"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="160" class="foreground"> sudo ./bin/dma_test</text><text x="168" textLength="8" class="background"> </text></g><g id="g30"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="160" class="foreground"> sudo ./bin/dma_test</text></g><g id="g31"><text x="0" textLength="8" class="background"> </text></g><g id="g32"><text x="0" textLength="224" class="foreground">[sudo] password for xxxxxx: </text><text x="224" textLength="8" class="background"> </text></g><g id="g33"><text x="0" textLength="224" class="foreground">[sudo] password for xxxxxx: </text></g><g id="g34"><text x="0" textLength="168" font-weight="bold" class="color14">Soft resetting DMA...</text></g><g id="g35"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="448" class="foreground"> - device: /dev/xdma0_user, address: 0x60000, value: 0x4</text></g><g id="g36"><text x="0" textLength="144" font-weight="bold" class="color13">[Reading register]</text><text x="144" textLength="352" class="foreground"> - device: /dev/xdma0_user, address: 0x60000</text></g><g id="g37"><text x="0" textLength="168" class="foreground">- Read value: 0x10002</text></g><g id="g38"><text x="0" textLength="192" class="foreground">MM2S DMA reset complete.</text></g><g id="g39"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="448" class="foreground"> - device: /dev/xdma0_user, address: 0x60030, value: 0x4</text></g><g id="g40"><text x="0" textLength="144" font-weight="bold" class="color13">[Reading register]</text><text x="144" textLength="352" class="foreground"> - device: /dev/xdma0_user, address: 0x60030</text></g><g id="g41"><text x="0" textLength="192" class="foreground">S2MM DMA reset complete.</text></g><g id="g42"><text x="0" textLength="192" font-weight="bold" class="color14">Starting DMA for S2MM...</text></g><g id="g43"><text x="0" textLength="400" class="foreground">Setting S2MM current descriptor address to 0x20000</text></g><g id="g44"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="504" class="foreground"> - device: /dev/xdma0_user, address: 0x60008, value: 0x44a20000</text></g><g id="g45"><text x="0" textLength="304" class="foreground">Enabling Channel S2MM (DMACR.RS=1) ...</text></g><g id="g46"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="480" class="foreground"> - device: /dev/xdma0_user, address: 0x60030, value: 0x10003</text></g><g id="g47"><text x="0" textLength="376" class="foreground">Setting S2MM tail descriptor address to 0x20080</text></g><g id="g48"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="504" class="foreground"> - device: /dev/xdma0_user, address: 0x60040, value: 0x44a20080</text></g><g id="g49"><text x="0" textLength="224" class="foreground">S2MM DMA transfer triggered.</text></g><g id="g50"><text x="0" textLength="312" class="foreground">Waiting for DMA transfer to complete...</text></g><g id="g51"><text x="0" textLength="352" font-weight="bold" class="color9">[ERROR] Wrong status register value: 0x14109</text></g><g id="g52"><text x="0" textLength="328" class="foreground">- SGIntErr: Descriptor complete bit error</text></g><g id="g53"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="8" class="foreground"> </text></g></defs><g id="screen_view"><g><rect x="16" y="0" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="0"/></g><g><rect x="24" y="714" width="8" height="17" class="foreground"/><use xlink:href="#g2" y="714"/></g><g><rect x="32" y="1428" width="8" height="17" class="foreground"/><use xlink:href="#g3" y="1428"/></g><g><rect x="40" y="2142" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="2142"/></g><g><rect x="48" y="2856" width="8" height="17" class="foreground"/><use xlink:href="#g5" y="2856"/></g><g><rect x="56" y="3570" width="8" height="17" class="foreground"/><use xlink:href="#g6" y="3570"/></g><g><rect x="64" y="4284" width="8" height="17" class="foreground"/><use xlink:href="#g7" y="4284"/></g><g><rect x="72" y="4998" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="4998"/></g><g><rect x="80" y="5712" width="8" height="17" class="foreground"/><use xlink:href="#g9" y="5712"/></g><g><use xlink:href="#g10" y="6426"/><rect x="16" y="6443" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="6443"/></g><g><use xlink:href="#g10" y="7140"/><rect x="24" y="7157" width="8" height="17" class="foreground"/><use xlink:href="#g11" y="7157"/></g><g><use xlink:href="#g10" y="7854"/><rect x="32" y="7871" width="8" height="17" class="foreground"/><use xlink:href="#g12" y="7871"/></g><g><use xlink:href="#g10" y="8568"/><rect x="40" y="8585" width="8" height="17" class="foreground"/><use xlink:href="#g13" y="8585"/></g><g><use xlink:href="#g10" y="9282"/><rect x="48" y="9299" width="8" height="17" class="foreground"/><use xlink:href="#g14" y="9299"/></g><g><use xlink:href="#g10" y="9996"/><rect x="56" y="10013" width="8" height="17" class="foreground"/><use xlink:href="#g15" y="10013"/></g><g><use xlink:href="#g10" y="10710"/><rect x="64" y="10727" width="8" height="17" class="foreground"/><use xlink:href="#g16" y="10727"/></g><g><use xlink:href="#g10" y="11424"/><rect x="72" y="11441" width="8" height="17" class="foreground"/><use xlink:href="#g17" y="11441"/></g><g><use xlink:href="#g10" y="12138"/><rect x="80" y="12155" width="8" height="17" class="foreground"/><use xlink:href="#g18" y="12155"/></g><g><use xlink:href="#g10" y="12852"/><rect x="88" y="12869" width="8" height="17" class="foreground"/><use xlink:href="#g19" y="12869"/></g><g><use xlink:href="#g10" y="13566"/><rect x="96" y="13583" width="8" height="17" class="foreground"/><use xlink:href="#g20" y="13583"/></g><g><use xlink:href="#g10" y="14280"/><rect x="104" y="14297" width="8" height="17" class="foreground"/><use xlink:href="#g21" y="14297"/></g><g><use xlink:href="#g10" y="14994"/><rect x="112" y="15011" width="8" height="17" class="foreground"/><use xlink:href="#g22" y="15011"/></g><g><use xlink:href="#g10" y="15708"/><rect x="120" y="15725" width="8" height="17" class="foreground"/><use xlink:href="#g23" y="15725"/></g><g><use xlink:href="#g10" y="16422"/><rect x="128" y="16439" width="8" height="17" class="foreground"/><use xlink:href="#g24" y="16439"/></g><g><use xlink:href="#g10" y="17136"/><rect x="136" y="17153" width="8" height="17" class="foreground"/><use xlink:href="#g25" y="17153"/></g><g><use xlink:href="#g10" y="17850"/><rect x="144" y="17867" width="8" height="17" class="foreground"/><use xlink:href="#g26" y="17867"/></g><g><use xlink:href="#g10" y="18564"/><rect x="152" y="18581" width="8" height="17" class="foreground"/><use xlink:href="#g27" y="18581"/></g><g><use xlink:href="#g10" y="19278"/><rect x="160" y="19295" width="8" height="17" class="foreground"/><use xlink:href="#g28" y="19295"/></g><g><use xlink:href="#g10" y="19992"/><rect x="168" y="20009" width="8" height="17" class="foreground"/><use xlink:href="#g29" y="20009"/></g><g><use xlink:href="#g10" y="20706"/><use xlink:href="#g30" y="20723"/><rect x="0" y="20740" width="8" height="17" class="foreground"/><use xlink:href="#g31" y="20740"/></g><g><use xlink:href="#g10" y="21420"/><use xlink:href="#g30" y="21437"/><rect x="224" y="21454" width="8" height="17" class="foreground"/><use xlink:href="#g32" y="21454"/></g><g><use xlink:href="#g10" y="22134"/><use xlink:href="#g30" y="22151"/><use xlink:href="#g33" y="22168"/><rect x="0" y="22185" width="8" height="17" class="foreground"/><use xlink:href="#g31" y="22185"/></g><g><use xlink:href="#g10" y="22848"/><use xlink:href="#g30" y="22865"/><use xlink:href="#g33" y="22882"/><use xlink:href="#g34" y="22899"/><use xlink:href="#g35" y="22916"/><use xlink:href="#g36" y="22933"/><use xlink:href="#g37" y="22950"/><use xlink:href="#g38" y="22967"/><use xlink:href="#g39" y="22984"/><use xlink:href="#g40" y="23001"/><use xlink:href="#g37" y="23018"/><use xlink:href="#g41" y="23035"/><use xlink:href="#g42" y="23052"/><use xlink:href="#g43" y="23069"/><use xlink:href="#g44" y="23086"/><use xlink:href="#g45" y="23103"/><use xlink:href="#g40" y="23120"/><use xlink:href="#g37" y="23137"/><use xlink:href="#g46" y="23154"/><use xlink:href="#g47" y="23171"/><use xlink:href="#g48" y="23188"/><use xlink:href="#g49" y="23205"/><use xlink:href="#g50" y="23222"/><use xlink:href="#g51" y="23239"/><use xlink:href="#g52" y="23256"/><rect x="16" y="23273" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="23273"/></g><g><use xlink:href="#g10" y="23562"/><use xlink:href="#g30" y="23579"/><use xlink:href="#g33" y="23596"/><use xlink:href="#g34" y="23613"/><use xlink:href="#g35" y="23630"/><use xlink:href="#g36" y="23647"/><use xlink:href="#g37" y="23664"/><use xlink:href="#g38" y="23681"/><use xlink:href="#g39" y="23698"/><use xlink:href="#g40" y="23715"/><use xlink:href="#g37" y="23732"/><use xlink:href="#g41" y="23749"/><use xlink:href="#g42" y="23766"/><use xlink:href="#g43" y="23783"/><use xlink:href="#g44" y="23800"/><use xlink:href="#g45" y="23817"/><use xlink:href="#g40" y="23834"/><use xlink:href="#g37" y="23851"/><use xlink:href="#g46" y="23868"/><use xlink:href="#g47" y="23885"/><use xlink:href="#g48" y="23902"/><use xlink:href="#g49" y="23919"/><use xlink:href="#g50" y="23936"/><use xlink:href="#g51" y="23953"/><use xlink:href="#g52" y="23970"/><use xlink:href="#g53" y="23987"/><use xlink:href="#g31" y="24021"/></g></g></svg>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 1200 140" width="1200" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="150" rows="10"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 8617ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+3.621%{transform:translateY(-204px)}
+5.988%{transform:translateY(-408px)}
+9.887%{transform:translateY(-612px)}
+11.709%{transform:translateY(-816px)}
+12.174%{transform:translateY(-1020px)}
+14.831%{transform:translateY(-1224px)}
+17.326%{transform:translateY(-1428px)}
+19.404%{transform:translateY(-1632px)}
+23.744%{transform:translateY(-1836px)}
+29.233%{transform:translateY(-2040px)}
+30.173%{transform:translateY(-2244px)}
+35.755%{transform:translateY(-2448px)}
+36.312%{transform:translateY(-2652px)}
+38.842%{transform:translateY(-2856px)}
+44.992%{transform:translateY(-3060px)}
+50.702%{transform:translateY(-3264px)}
+54.033%{transform:translateY(-3468px)}
+55.193%{transform:translateY(-3672px)}
+59.777%{transform:translateY(-3876px)}
+65.011%{transform:translateY(-4080px)}
+67.367%{transform:translateY(-4284px)}
+70.256%{transform:translateY(-4488px)}
+71.730%{transform:translateY(-4692px)}
+77.498%{transform:translateY(-4896px)}
+77.510%{transform:translateY(-5100px)}
+88.395%{transform:translateY(-5304px)}
+100.000%{transform:translateY(-5304px)}
+            }
+
+            #screen_view {
+                animation-duration: 8617ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="1200" height="170" viewBox="0 0 1200 170" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="8" class="foreground"> </text><text x="16" textLength="8" class="background"> </text></g><g id="g2"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="16" class="foreground"> c</text><text x="24" textLength="8" class="background"> </text></g><g id="g3"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="24" class="foreground"> cd</text><text x="32" textLength="8" class="background"> </text></g><g id="g4"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="32" class="foreground"> cd </text><text x="40" textLength="8" class="background"> </text></g><g id="g5"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="40" class="foreground"> cd b</text><text x="48" textLength="8" class="background"> </text></g><g id="g6"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="48" class="foreground"> cd bu</text><text x="56" textLength="8" class="background"> </text></g><g id="g7"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="56" class="foreground"> cd bui</text><text x="64" textLength="8" class="background"> </text></g><g id="g8"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="64" class="foreground"> cd buil</text><text x="72" textLength="8" class="background"> </text></g><g id="g9"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> cd build</text><text x="80" textLength="8" class="background"> </text></g><g id="g10"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> cd build</text></g><g id="g11"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="16" class="foreground"> .</text><text x="24" textLength="8" class="background"> </text></g><g id="g12"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="24" class="foreground"> ./</text><text x="32" textLength="8" class="background"> </text></g><g id="g13"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="32" class="foreground"> ./b</text><text x="40" textLength="8" class="background"> </text></g><g id="g14"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="40" class="foreground"> ./bi</text><text x="48" textLength="8" class="background"> </text></g><g id="g15"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="48" class="foreground"> ./bin</text><text x="56" textLength="8" class="background"> </text></g><g id="g16"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="56" class="foreground"> ./bin/</text><text x="64" textLength="8" class="background"> </text></g><g id="g17"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="64" class="foreground"> ./bin/d</text><text x="72" textLength="8" class="background"> </text></g><g id="g18"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="72" class="foreground"> ./bin/dm</text><text x="80" textLength="8" class="background"> </text></g><g id="g19"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="80" class="foreground"> ./bin/dma</text><text x="88" textLength="8" class="background"> </text></g><g id="g20"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="88" class="foreground"> ./bin/dma_</text><text x="96" textLength="8" class="background"> </text></g><g id="g21"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="96" class="foreground"> ./bin/dma_t</text><text x="104" textLength="8" class="background"> </text></g><g id="g22"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="104" class="foreground"> ./bin/dma_te</text><text x="112" textLength="8" class="background"> </text></g><g id="g23"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="112" class="foreground"> ./bin/dma_tes</text><text x="120" textLength="8" class="background"> </text></g><g id="g24"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="120" class="foreground"> ./bin/dma_test</text><text x="128" textLength="8" class="background"> </text></g><g id="g25"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="120" class="foreground"> ./bin/dma_test</text></g><g id="g26"><text x="0" textLength="8" class="background"> </text></g><g id="g27"><text x="0" textLength="168" font-weight="bold" class="color14">Soft resetting DMA...</text></g><g id="g28"><text x="0" textLength="144" font-weight="bold" class="color13">[Writing register]</text><text x="144" textLength="448" class="foreground"> - device: /dev/xdma0_user, address: 0x60000, value: 0x4</text></g><g id="g29"><text x="0" textLength="392" font-weight="bold" class="color9">[Error] Fail writing register at address 0x60000.</text></g><g id="g30"><text x="0" textLength="8" fill="#00ff00">$</text><text x="8" textLength="8" class="foreground"> </text></g></defs><g id="screen_view"><g><rect x="16" y="0" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="0"/></g><g><rect x="24" y="204" width="8" height="17" class="foreground"/><use xlink:href="#g2" y="204"/></g><g><rect x="32" y="408" width="8" height="17" class="foreground"/><use xlink:href="#g3" y="408"/></g><g><rect x="40" y="612" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="612"/></g><g><rect x="48" y="816" width="8" height="17" class="foreground"/><use xlink:href="#g5" y="816"/></g><g><rect x="56" y="1020" width="8" height="17" class="foreground"/><use xlink:href="#g6" y="1020"/></g><g><rect x="64" y="1224" width="8" height="17" class="foreground"/><use xlink:href="#g7" y="1224"/></g><g><rect x="72" y="1428" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="1428"/></g><g><rect x="80" y="1632" width="8" height="17" class="foreground"/><use xlink:href="#g9" y="1632"/></g><g><use xlink:href="#g10" y="1836"/><rect x="16" y="1853" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="1853"/></g><g><use xlink:href="#g10" y="2040"/><rect x="24" y="2057" width="8" height="17" class="foreground"/><use xlink:href="#g11" y="2057"/></g><g><use xlink:href="#g10" y="2244"/><rect x="32" y="2261" width="8" height="17" class="foreground"/><use xlink:href="#g12" y="2261"/></g><g><use xlink:href="#g10" y="2448"/><rect x="40" y="2465" width="8" height="17" class="foreground"/><use xlink:href="#g13" y="2465"/></g><g><use xlink:href="#g10" y="2652"/><rect x="48" y="2669" width="8" height="17" class="foreground"/><use xlink:href="#g14" y="2669"/></g><g><use xlink:href="#g10" y="2856"/><rect x="56" y="2873" width="8" height="17" class="foreground"/><use xlink:href="#g15" y="2873"/></g><g><use xlink:href="#g10" y="3060"/><rect x="64" y="3077" width="8" height="17" class="foreground"/><use xlink:href="#g16" y="3077"/></g><g><use xlink:href="#g10" y="3264"/><rect x="72" y="3281" width="8" height="17" class="foreground"/><use xlink:href="#g17" y="3281"/></g><g><use xlink:href="#g10" y="3468"/><rect x="80" y="3485" width="8" height="17" class="foreground"/><use xlink:href="#g18" y="3485"/></g><g><use xlink:href="#g10" y="3672"/><rect x="88" y="3689" width="8" height="17" class="foreground"/><use xlink:href="#g19" y="3689"/></g><g><use xlink:href="#g10" y="3876"/><rect x="96" y="3893" width="8" height="17" class="foreground"/><use xlink:href="#g20" y="3893"/></g><g><use xlink:href="#g10" y="4080"/><rect x="104" y="4097" width="8" height="17" class="foreground"/><use xlink:href="#g21" y="4097"/></g><g><use xlink:href="#g10" y="4284"/><rect x="112" y="4301" width="8" height="17" class="foreground"/><use xlink:href="#g22" y="4301"/></g><g><use xlink:href="#g10" y="4488"/><rect x="120" y="4505" width="8" height="17" class="foreground"/><use xlink:href="#g23" y="4505"/></g><g><use xlink:href="#g10" y="4692"/><rect x="128" y="4709" width="8" height="17" class="foreground"/><use xlink:href="#g24" y="4709"/></g><g><use xlink:href="#g10" y="4896"/><use xlink:href="#g25" y="4913"/><rect x="0" y="4930" width="8" height="17" class="foreground"/><use xlink:href="#g26" y="4930"/></g><g><use xlink:href="#g10" y="5100"/><use xlink:href="#g25" y="5117"/><use xlink:href="#g27" y="5134"/><use xlink:href="#g28" y="5151"/><use xlink:href="#g29" y="5168"/><rect x="16" y="5185" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="5185"/></g><g><use xlink:href="#g10" y="5304"/><use xlink:href="#g25" y="5321"/><use xlink:href="#g27" y="5338"/><use xlink:href="#g28" y="5355"/><use xlink:href="#g29" y="5372"/><use xlink:href="#g30" y="5389"/><use xlink:href="#g26" y="5423"/></g></g></svg>
+</svg>
